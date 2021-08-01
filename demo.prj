@@ -3,10 +3,10 @@
    <description></description>
    <name>demo</name>
    <tag></tag>
-   <UUID>2be1953f-d7ef-496b-9ff2-280e4f491bc8</UUID>
+   <UUID>22e357b4-d368-4520-aaba-67529cc4d39e</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>/Users/quiducle/Documents/calculator-sample/demo.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\loulou\Katalon Studio\testProjectSecond\demo.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
@@ -25,5 +25,5 @@
          </systemFolderConfiguration>
       </systemFolderList>
    </sourceContent>
-   <type>WEBUI</type>
+   <type>GENERIC</type>
 </Project>
